@@ -35,8 +35,10 @@ Simple Restaurant Api(server) must be running on the system
 
 To build and run this application, apply theses commands in the project folder:
 
+'''
 cargo build --release
 cargo run --bin restaurant_client
+'''
 
 ## License
 
